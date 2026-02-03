@@ -3,7 +3,7 @@ How to Secure Your Total Defense Login Account?
 
 Managing your online security starts with understanding how to use your Total Defense login account properly. Total Defense is a well known cybersecurity solution that provides antivirus protection, identity theft prevention, malware defense, and privacy tools for personal and family use. Your login account is the central place where all these security features come together.
 
-.. image:: login-noww.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
