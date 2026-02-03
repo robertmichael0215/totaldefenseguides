@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://totaldefenseguides.readthedocs.io/en/latest/'
+html_baseurl = 'https://totaldefenseguide.readthedocs.io/en/latest/'
