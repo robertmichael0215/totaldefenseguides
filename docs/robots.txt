@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://totaldefenseguides.readthedocs.io/en/latest/
+Sitemap: https://totaldefenseguide.readthedocs.io/en/latest/
